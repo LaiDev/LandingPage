@@ -1,10 +1,10 @@
-# Galactic Pilgrams - Landing Page
+# Galactic Pilgrims - Landing Page
 
 [View Site](https://laidev.github.io/LandingPage/)
 
 ## Overview
 
-In this project, I used Html and CSS to develop a landing page. This landing page is for a fictional clan called Galactic Pilgrams, an online gaming community for the game No Man's Sky. The **purpose** of this landing page is to get gamers to join Galactic Pilgrams.
+In this project, I used Html and CSS to develop a landing page. This landing page is for a fictional clan called Galactic Pilgrais, an online gaming community for the game No Man's Sky. The **purpose** of this landing page is to get gamers to join Galactic Pilgrims.
 
 ### Final  Thoughts 
 
@@ -15,5 +15,5 @@ Overall, this project was very fun. It allowed me to imagine a community based a
 Make the website responsive on other devices.
 
 **Credits**
-The rocket icon used in the Galactic Pilgram logo came from : [Icon8](https://icons8.com).
+The rocket icon used in the Galactic Pilgrim logo came from : [Icon8](https://icons8.com).
 The Images used throught the website came from : [No Man's Sky](https://www.nomanssky.com/about/).
